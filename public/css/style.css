@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #6951F0;
+    color: white;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.ticket-actual {
+    background-color: #282828;
+}
+
+.ticket-actual-numero {
+    font-size: 80px;
+}
+
+.ticket-actual-escritorio {
+    font-size: 45px;
+}
+
+.ticket-secundario {
+    font-size: 25px;
+}
+
+
+/* Nuevo-ticket */
+
+#lblNuevoTicket {
+    font-size: 70px;
+}
